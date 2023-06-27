@@ -4,4 +4,3 @@ In this repository, you will find a wide range of exercises carefully crafted to
 <img src="https://ourcodeworld.com/public-media/articles/articleocw-56bba37e791bc.png"  width="200" height="220">
 <img src="https://wit-computing.github.io/data-structures-and-algo-2017/topic01/talk-1/objects-and-classes.png"  width="200" height="220">
 <img src="https://cdn-icons-png.flaticon.com/512/2995/2995440.png"  width="200" height="220">
-<img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png"  width="200" height="220">
